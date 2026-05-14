@@ -1,5 +1,13 @@
 # 💫 About Me:
-👋 Hi, I'm Einstein E (MrEinsteinE)!<br>🔭 I'm currently working on various projects on different domains<br>🌱 I'm learning current new tech in the market<br>💬 Ask me about my projects<br>⚡ Fun fact: Named after the legend — big ideas in progress 🧠
+👋 Hey, I'm **Einstein E** — a Computer Science undergrad from Hyderabad with a passion for building things that matter.
+
+- 🎓 **B.Tech CSE** student, constantly exploring the intersection of AI, software, and systems
+- 🤖 Worked on **multi-agent LLM systems**, medical imaging AI, and real-time OS schedulers
+- 🏆 Active **hackathon participant** — Meta × HuggingFace × PyTorch OpenEnv, DTCC Fintech, Amazon ML Challenge
+- 🔧 I build across the stack — from **React/Node** frontends to **Java/Spring** backends to **C++ systems code**
+- 📊 Into **machine learning**, **NLP**, **computer vision**, and distributed systems
+- 🌍 Currently leveling up in **cloud infrastructure** (AWS/GCP/Azure) and **DevOps**
+- ⚡ Fun fact: Named after the legend — big ideas in progress 🧠
 
 
 ## 🌐 Socials:
